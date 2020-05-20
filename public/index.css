@@ -101,3 +101,76 @@ h1.content-heading{
 .button-content-wrapper{
 
 }
+
+
+
+.widget-container{
+  width: 500px;
+  height: 440px;
+  float: left;
+  display: inline-block;
+}
+
+.widget-image{
+  width: 500px;
+}
+
+.widget-text-container{
+  align-content: center;
+  vertical-align: middle;
+}
+
+.widget-col{
+  width: 56%;
+  display: inline-block;
+  padding: 10px;/* float: left; */
+}
+
+.widget-title{
+  color: #202020;
+  font-family: "Nunito", Sans-serif;
+  font-size: 25px;
+  text-align: left;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+.widget-body-container{
+  width: 100%;
+  display: inline-block;
+  text-align: left;
+  margin-left: 0;
+}
+
+.widget-body-text{
+  display: inline-block;/* width: 100; */
+  font-family: "Work Sans", Sans-serif;
+  font-size: 15px;
+  line-height: 1.8em;
+  padding: 20px;
+}
+
+.widget-col{
+  display: inline-block;/* padding: 20px; */
+  text-align: center;
+  width: 100%;
+  margin:0 auto;
+}
+
+.widget-col-button{
+  padding: 0;
+}
+
+.button-container{
+  margin: auto;/* top: 0; */
+  margin:0 auto;
+  display: block;
+}
+
+.widget-button{
+  display: block;
+  font-size: 10px;
+  margin:0 auto;
+}
